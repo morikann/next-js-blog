@@ -40,7 +40,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyle.headingMd}>
-        <p>Flutter/iOSエンジニアです。</p>
+        <p>私はFlutter/iOSエンジニアです。</p>
       </section>
 
       <section>
